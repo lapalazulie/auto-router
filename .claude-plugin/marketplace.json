@@ -1,0 +1,7 @@
+{
+  "name": "auto-router",
+  "owner": { "name": "lapalazulie" },
+  "plugins": [
+    { "name": "auto-router", "source": "./plugins/auto-router", "description": "Kiest per prompt zelf het model en effort-niveau, met kwaliteit boven kosten" }
+  ]
+}
